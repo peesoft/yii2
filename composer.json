@@ -1,5 +1,5 @@
 {
-    "name": "peesoft/yii2-dev",
+    "name": "peesoft/yii-dev",
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "minimum-stability": "dev",
@@ -31,14 +31,14 @@
         }
     },
     "config": {
-        "platform": {"php": "5.4"}
+        "platform": {"php": "7.1"}
     },
     "bin": [
         "framework/yii"
     ],
     "extra": {
         "branch-alias": {
-            "dev-master": "2.0.x-dev"
+            "dev-master": "3.x-dev"
         }
     }
 }

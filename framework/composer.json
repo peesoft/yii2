@@ -1,8 +1,8 @@
 {
-    "name": "peesoft/yii2",
+    "name": "peesoft/yii",
     "type": "library",
     "require": {
-        "php": ">=5.4.0",
+        "php": ">=7.1",
         "ext-mbstring": "*",
         "ext-ctype": "*",
         "lib-pcre": "*",
@@ -16,7 +16,7 @@
     ],
     "extra": {
         "branch-alias": {
-            "dev-master": "2.0.x-dev"
+            "dev-master": "3.x-dev"
         }
     }
 }

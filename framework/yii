@@ -1,4 +1,4 @@
 #!/usr/bin/env php
 <?php
 
-echo 'Yii 2.0.16-dev works!' . "\n";
+echo 'Yii 3.0-dev works!' . "\n";
