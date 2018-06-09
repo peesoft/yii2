@@ -1,5 +1,5 @@
 {
-    "name": "peesoft/yii",
+    "name": "peesoft/yii2",
     "type": "library",
     "require": {
         "php": ">=7.1",
@@ -13,10 +13,5 @@
     },
     "bin": [
         "yii"
-    ],
-    "extra": {
-        "branch-alias": {
-            "dev-master": "3.x-dev"
-        }
-    }
+    ]
 }
